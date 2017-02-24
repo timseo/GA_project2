@@ -1,10 +1,12 @@
-# Tab Tracker
 
-![MacDown logo](http://macdown.uranusjr.com/static/base/img/logo-160.png)
+
+![moski logo](https://github.com/timseo/GA_project1/blob/master/images/moski-greyscale-logo.png?raw=true)
+
+
 
 Ever wonder how much you had to drink last night?  **Tab Tracker**, is here to help you keep a tally of your drinks and hopefully promote more responsible consumption behavior.
 
-
+# Tab Tracker
 
 
 ## Used Technology
@@ -20,11 +22,39 @@ Started by sketching out wireframes.  ERD to visualize data flow and table manag
 Click here ____ and clone my git repo.  Once cloned, open project via text editor in command line and initialize rails server.  Open browser and point to server address given in terminal.  Enjoy!
 ## Unsolved
 Stay tuned
+
 ## Links
+###[Tab Tracker](https://timseo.github.io/GA_project2/ "App Link")
+###[Trello](https://trello.com/b/PWvBrNRF "trello")
 
 ## Wireframe
+High level view
 
-![MacDown logo](https://www.dropbox.com/s/epnne3q3o0ojtki/Photo%20Feb%2022%2C%2010%2054%2054%20PM.jpg)
+![wireframe 1](https://github.com/timseo/GA_project2/blob/master/wireframe/Photo%20Feb%2022,%2010%2055%2030%20PM.jpg?raw=true)
+
+User Signup / Login
+
+![wireframe 2](https://github.com/timseo/GA_project2/blob/master/wireframe/Photo%20Feb%2022,%2010%2055%2048%20PM.jpg?raw=true)
+
+
+User signup form
+
+![wireframe 3](https://github.com/timseo/GA_project2/blob/master/wireframe/Photo%20Feb%2022,%2010%2055%2052%20PM.jpg?raw=true)
+
+
+Posts
+
+![wireframe 4](https://github.com/timseo/GA_project2/blob/master/wireframe/Photo%20Feb%2022,%2010%2055%2058%20PM.jpg?raw=true)
+
+
+Load drinks
+
+![wireframe 5](https://github.com/timseo/GA_project2/blob/master/wireframe/Photo%20Feb%2022,%2010%2056%2007%20PM.jpg?raw=true)
+
+
+Tracker 
+
+![wireframe 6](https://github.com/timseo/GA_project2/blob/master/wireframe/Photo%20Feb%2022,%2010%2056%2013%20PM.jpg?raw=true)
 
 ## ERD
 
