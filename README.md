@@ -58,4 +58,4 @@ Tracker
 
 ## ERD
 
-###[lucid erd](https://www.lucidchart.com/invitations/accept/7e46c738-b2bd-4a52-8abc-4a64240ec2d9 "erd")
+![erd 1](https://github.com/timseo/GA_project2/blob/master/wireframe/DA%20BA%20%20ERD%20-%20Standard.jpeg?raw=true)
