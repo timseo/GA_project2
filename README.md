@@ -4,9 +4,9 @@
 
 
 
-Ever wonder how much you had to drink last night?  **Tab Tracker**, is here to help you keep a tally of your drinks and hopefully promote more responsible consumption behavior.
+Ever wonder how much you had to drink last night?  **reGrets**, is here to help you keep a tally of your drinks and hopefully promote more responsible consumption behavior.
 
-# Tab Tracker
+# reGrets
 
 
 ## Used Technology
